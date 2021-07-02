@@ -5,6 +5,6 @@ With this project, I will be analyzing how the the language used to discuss clim
 Here, I have linked my [poster](https://drive.google.com/file/d/13ysMLgDCX0QncSGDZYKAKYJUUYGlDcqT/view?usp=sharing) that summarizes the scope, methods, interpretations, and conclusions of the project.
 
 Below are some key visualizations included within the poster:
-![image](https://user-images.githubusercontent.com/85643410/124233220-da456b00-dacf-11eb-95a0-b6b8e2384cb5.png)
-![image](https://user-images.githubusercontent.com/85643410/124233260-e5000000-dacf-11eb-8082-f92d1b0793fb.png)
+![image](https://user-images.githubusercontent.com/85643410/124233390-06f98280-dad0-11eb-85a1-3616767db0b8.png)
+![image](https://user-images.githubusercontent.com/85643410/124233455-15479e80-dad0-11eb-9380-3028d0d26693.png)
 
